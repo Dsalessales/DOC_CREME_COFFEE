@@ -1,6 +1,6 @@
-# Crema theme documentation
+# Kissa theme documentation
 
-Public documentation for **Crema**, the Shopify theme for specialty coffee roasters and cafés by DIGI STUDIO.
+Public documentation for **Kissa**, the Shopify theme for specialty coffee roasters and cafés by DIGI STUDIO.
 
 The site is a single `index.html`, published with Cloudflare Pages from the root of this repository (no build step).
 
