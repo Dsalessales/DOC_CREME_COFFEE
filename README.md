@@ -6,4 +6,4 @@ The site is a single `index.html`, published with Cloudflare Pages from the root
 
 It is generated from `theme-store/DOCUMENTATION.md` in the theme repository with `theme-store/build_docs.py`; edit the Markdown there and regenerate rather than editing `index.html` by hand.
 
-Support: douglas41299@gmail.com
+Support: contato@studiodigi.com.br
